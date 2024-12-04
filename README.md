@@ -1,10 +1,12 @@
 <h1 align="center"><samp>Hi there 👋🏾, welcome to my GitHub!</h1>
-<h4 align="center">I'm a Game Developer - Nguyen Zuy.</h4>
-<h4 align="center">I also enjoy 2D Art and am always exploring new things 😈😈</h4>
+<h4 align="center"> 🎮 I'm a Game Developer  - Nguyen Zuy.</h4>
+<h4 align="center"> 🎨 I also enjoy 2D Art and am always 🧠 exploring new things 😈😈</h4>
 
 <p align="center">
   <img width="300" src="me.gif">
 </p>
+
+<h5 align="center"> 🛠️ Technologies & Tools.</h5>
 
 <p align="center">
   <a href="https://skillicons.dev">
