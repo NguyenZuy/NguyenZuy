@@ -5,3 +5,9 @@
 <p align="center">
   <img width="300" src="me.gif">
 </p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,cs,java,js,docker,dotnet,firebase,git,idea,linux,mint,mongodb,nodejs,obsidian,postman,postgres,ubuntu,visualstudio,vscode" />
+  </a>
+</p>
