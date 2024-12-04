@@ -3,5 +3,5 @@
 <h4 align="center">I also enjoy 2D Art and am always exploring new things 😈😈</h4>
 
 <p align="center">
-  <img width="600" src="me.gif">
+  <img width="300" src="me.gif">
 </p>
