@@ -39,7 +39,7 @@ Experienced Game Developer with 2+ years in Unity, C#, and backend tech. Skilled
 <h2 align="center">💻 Professional Experience</h2>
 
 <div align="center">
-  <b>Junior Game Developer</b> | QTS Australia<br>
+  <b>Game Developer</b> | QTS Australia<br>
   Ho Chi Minh City, Vietnam | August 2022-2025
 </div>
 
