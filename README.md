@@ -59,7 +59,7 @@ Experienced Game Developer with 2+ years in Unity, C#, and backend tech. Skilled
   <summary><b>💻 Languages & Frameworks</b></summary>
   <br>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=cs,java,js,go,nodejs" />
+    <img src="https://skillicons.dev/icons?i=cs,java,js" />
   </p>
 </details>
 
