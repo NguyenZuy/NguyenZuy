@@ -39,9 +39,11 @@ Experienced Game Developer with 4+ years in Unity, C#, and backend tech. Skilled
 <h2 align="center">💻 Professional Experience</h2>
 
 <div align="center">
-  <b>Game Developer</b> | QTS Australia<br>
+  <b>Fullstack Game Developer</b> | QTS Australia<br>
   Ho Chi Minh City, Vietnam | Aug 2022 – Aug 2025
 </div>
+
+<br>
 
 <div align="center">
   <b>Fullstack Game Developer</b> | Smulie<br>
@@ -94,14 +96,6 @@ Experienced Game Developer with 4+ years in Unity, C#, and backend tech. Skilled
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NguyenZuy&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
----
-
 <h2 align="center">📫 Contact Me</h2>
 <p align="center">
   Feel free to reach out for collaborations or just a friendly chat!
@@ -113,9 +107,5 @@ Experienced Game Developer with 4+ years in Unity, C#, and backend tech. Skilled
   <b>Portfolio:</b> <a href="https://nguyenzuy.site/">nguyenzuy.site</a>
 </p>
 
-<h2 align="center">👀 Visitor Count</h2>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/NguyenZuy/count.svg" alt="Visitor Count" />
-</p>
 
 
