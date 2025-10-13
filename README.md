@@ -40,7 +40,12 @@ Experienced Game Developer with 2+ years in Unity, C#, and backend tech. Skilled
 
 <div align="center">
   <b>Game Developer</b> | QTS Australia<br>
-  Ho Chi Minh City, Vietnam | August 2022-2025
+  Ho Chi Minh City, Vietnam | Aug 2022 – Aug 2025
+</div>
+
+<div align="center">
+  <b>Fullstack Game Developer</b> | Smulie<br>
+  Ho Chi Minh City, Vietnam | Aug 2025 – Present
 </div>
 
 ---
@@ -112,3 +117,4 @@ Experienced Game Developer with 2+ years in Unity, C#, and backend tech. Skilled
 <p align="center">
   <img src="https://profile-counter.glitch.me/NguyenZuy/count.svg" alt="Visitor Count" />
 </p>
+
