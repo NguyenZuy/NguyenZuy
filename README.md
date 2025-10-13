@@ -19,7 +19,7 @@
 <h2 align="center">💼 About Me</h2>
 
 <p align="center">
-Experienced Game Developer with 2+ years in Unity, C#, and backend tech. Skilled in cross-platform optimization, AI integration, and team collaboration to deliver immersive games. Focused on mobile optimization and continuous innovation in game technology.
+Experienced Game Developer with 4+ years in Unity, C#, and backend tech. Skilled in cross-platform optimization, AI integration, and team collaboration to deliver immersive games. Focused on mobile optimization and continuous innovation in game technology.
 </p>
 
 ---
@@ -117,4 +117,5 @@ Experienced Game Developer with 2+ years in Unity, C#, and backend tech. Skilled
 <p align="center">
   <img src="https://profile-counter.glitch.me/NguyenZuy/count.svg" alt="Visitor Count" />
 </p>
+
 
