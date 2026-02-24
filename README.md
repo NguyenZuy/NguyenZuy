@@ -18,39 +18,47 @@
 
 ---
 
+<p align="center">
 I am a Fullstack Unity Developer with 3 years of experience. I build both the game client and the backend server — from gameplay and UI in Unity to REST APIs and real-time networking.
-
+<br><br>
 I use AI tools as a core part of how I work. I focus on what users actually need, cut what does not matter, and ship things that make a real difference.
-
+<br><br>
 Currently open to remote opportunities.
+</p>
 
 ---
 
-**Experience**
+<h3 align="center">Experience</h3>
+
+<div align="center">
 
 | Role | Company | Period |
 |---|---|---|
 | Fullstack Unity Developer | Smulie | Aug 2025 – Present |
 | Fullstack Unity Developer | QTS Australia | Jun 2023 – Aug 2025 |
 
+</div>
+
 ---
 
-**Education**
+<h3 align="center">Education</h3>
 
-Bachelor of Technology — Information Technology
+<p align="center">
+Bachelor of Technology — Information Technology<br>
 Posts and Telecommunications Institute of Technology (PTIT) · Graduated Nov 2024
+</p>
 
 ---
 
-**Tech Stack**
+<h3 align="center">Tech Stack</h3>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=unity,cs,dotnet" />
 </p>
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,firebase,docker" />
 </p>
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
