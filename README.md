@@ -1,61 +1,51 @@
-<h1 align="center"><samp>Hi there 👋🏾, welcome to my GitHub!</h1>
-<h4 align="center"> 🎮 I'm a Game Developer - Nguyen Zuy.</h4>
-<h4 align="center"> 🎨 I also enjoy 2D Art and am always 🧠 exploring new things 😈😈</h4>
+<h1 align="center">Nguyen Zuy</h1>
+<h4 align="center">Fullstack Unity Developer | Client + Backend | Product-driven</h4>
 
 <p align="center">
   <img width="300" src="me.gif">
 </p>
 
 <div align="center">
-  <p>
-    <a href="mailto:contact.nguyenzuy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://linkedin.com/in/nguyen-zuy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://nguyenzuy.site/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"></a>
-  </p>
+  <a href="mailto:contact.nguyenzuy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/nguyen-zuy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://nguyenzuy.site/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"></a>
 </div>
 
 ---
 
-<h2 align="center">💼 About Me</h2>
-
+<h2 align="center">About Me</h2>
 <p align="center">
-Experienced Game Developer with 4+ years in Unity, C#, and backend tech. Skilled in cross-platform optimization, AI integration, and team collaboration to deliver immersive games. Focused on mobile optimization and continuous innovation in game technology.
+Fullstack Unity Developer with 3 years of experience building both game client and backend systems. I work across Unity, C#, REST APIs, and real-time networking. I use AI tools as a core part of my workflow to ship faster and build better. I care about what users actually need — not just clean code.
 </p>
 
 ---
 
-<h2 align="center">🎓 Education</h2>
-
-<p align="center">
-  <b>Bachelor of Engineering in Information Technology</b><br>
-  Posts and Telecommunications Institute of Technology <b>(PTIT)</b><br>
-  Concentration: Software Engineering<br>
-  Ho Chi Minh City, Vietnam<br>
-  Graduated: December 2024
-</p>
-
----
-
-<h2 align="center">💻 Professional Experience</h2>
-
+<h2 align="center">Experience</h2>
 <div align="center">
-  <b>Fullstack Game Developer</b> | QTS Australia<br>
-  Ho Chi Minh City, Vietnam | Aug 2022 – Aug 2025
-</div>
-
-<br>
-
-<div align="center">
-  <b>Fullstack Game Developer</b> | Smulie<br>
+  <b>Fullstack Unity Developer</b> | Smulie<br>
   Ho Chi Minh City, Vietnam | Aug 2025 – Present
 </div>
+<br>
+<div align="center">
+  <b>Fullstack Unity Developer</b> | QTS Australia<br>
+  Ho Chi Minh City, Vietnam | Jun 2023 – Aug 2025
+</div>
 
 ---
 
-<h2 align="center">🛠️ Technologies & Tools</h2>
+<h2 align="center">Education</h2>
+<p align="center">
+  <b>Bachelor of Technology — Information Technology</b><br>
+  Posts and Telecommunications Institute of Technology (PTIT)<br>
+  Ho Chi Minh City, Vietnam | Graduated: Nov 2024
+</p>
+
+---
+
+<h2 align="center">Technologies & Tools</h2>
 
 <details open>
-  <summary><b>🎮 Game Development</b></summary>
+  <summary><b>Game Development</b></summary>
   <br>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=unity,cs,visualstudio,dotnet" />
@@ -63,7 +53,7 @@ Experienced Game Developer with 4+ years in Unity, C#, and backend tech. Skilled
 </details>
 
 <details open>
-  <summary><b>💻 Languages & Frameworks</b></summary>
+  <summary><b>Languages & Frameworks</b></summary>
   <br>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=cs,java,js" />
@@ -71,41 +61,26 @@ Experienced Game Developer with 4+ years in Unity, C#, and backend tech. Skilled
 </details>
 
 <details open>
-  <summary><b>🗄️ Databases & DevOps</b></summary>
+  <summary><b>Databases & DevOps</b></summary>
   <br>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres,docker,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres,docker" />
   </p>
 </details>
 
 <details open>
-  <summary><b>🔧 Tools & Platforms</b></summary>
+  <summary><b>Tools & Platforms</b></summary>
   <br>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,idea,vscode,figma,postman,obsidian" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>🐧 Operating Systems</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,mint,bash" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
   </p>
 </details>
 
 ---
 
-<h2 align="center">📫 Contact Me</h2>
+<h2 align="center">Contact</h2>
 <p align="center">
-  Feel free to reach out for collaborations or just a friendly chat!
-</p>
-<p align="center">
-  <b>Phone:</b> (+84) 356-756-964<br>
   <b>Email:</b> <a href="mailto:contact.nguyenzuy@gmail.com">contact.nguyenzuy@gmail.com</a><br>
   <b>LinkedIn:</b> <a href="https://linkedin.com/in/nguyen-zuy">linkedin.com/in/nguyen-zuy</a><br>
   <b>Portfolio:</b> <a href="https://nguyenzuy.site/">nguyenzuy.site</a>
 </p>
-
-
-
