@@ -1,79 +1,62 @@
 <h1 align="center">Nguyen Zuy</h1>
-<h4 align="center">Fullstack Unity Developer | Client + Backend | Product-driven</h4>
 
 <p align="center">
-  <img width="300" src="me.gif">
+  <b>Fullstack Unity Developer</b> · Client + Backend · Product-driven
 </p>
 
-<div align="center">
-  <a href="mailto:contact.nguyenzuy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/nguyen-zuy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://nguyenzuy.site/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"></a>
-</div>
-
----
-
-<h2 align="center">About Me</h2>
 <p align="center">
-Fullstack Unity Developer with 3 years of experience building both game client and backend systems. I work across Unity, C#, REST APIs, and real-time networking. I use AI tools as a core part of my workflow to ship faster and build better. I care about what users actually need — not just clean code.
-</p>
-
----
-
-<h2 align="center">Experience</h2>
-<div align="center">
-  <b>Fullstack Unity Developer</b> | Smulie<br>
-  Ho Chi Minh City, Vietnam | Aug 2025 – Present
-</div>
-<br>
-<div align="center">
-  <b>Fullstack Unity Developer</b> | QTS Australia<br>
-  Ho Chi Minh City, Vietnam | Jun 2023 – Aug 2025
-</div>
-
----
-
-<h2 align="center">Education</h2>
-<p align="center">
-  <b>Bachelor of Technology — Information Technology</b><br>
-  Posts and Telecommunications Institute of Technology (PTIT)<br>
-  Ho Chi Minh City, Vietnam | Graduated: Nov 2024
+  <a href="mailto:contact.nguyenzuy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/nguyen-zuy">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://nguyenzuy.site/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white">
+  </a>
 </p>
 
 ---
 
-<h2 align="center">Technologies & Tools</h2>
+I am a Fullstack Unity Developer with 3 years of experience. I build both the game client and the backend server — from gameplay and UI in Unity to REST APIs and real-time networking.
 
-<details open>
-  <summary><b>Game Development</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=unity,cs,dotnet" />
-  </p>
-</details>
+I use AI tools as a core part of how I work. I focus on what users actually need, cut what does not matter, and ship things that make a real difference.
 
-<details open>
-  <summary><b>Backend & Database</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase,docker" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>Tools</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-  </p>
-</details>
+Currently open to remote opportunities.
 
 ---
 
-<h2 align="center">Contact</h2>
-<p align="center">
-  <b>Email:</b> <a href="mailto:contact.nguyenzuy@gmail.com">contact.nguyenzuy@gmail.com</a><br>
-  <b>LinkedIn:</b> <a href="https://linkedin.com/in/nguyen-zuy">linkedin.com/in/nguyen-zuy</a><br>
-  <b>Portfolio:</b> <a href="https://nguyenzuy.site/">nguyenzuy.site</a>
+**Experience**
+
+| Role | Company | Period |
+|---|---|---|
+| Fullstack Unity Developer | Smulie | Aug 2025 – Present |
+| Fullstack Unity Developer | QTS Australia | Jun 2023 – Aug 2025 |
+
+---
+
+**Education**
+
+Bachelor of Technology — Information Technology
+Posts and Telecommunications Institute of Technology (PTIT) · Graduated Nov 2024
+
+---
+
+**Tech Stack**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,cs,dotnet" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,docker" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
+---
+
+<p align="center">
+  <a href="mailto:contact.nguyenzuy@gmail.com">contact.nguyenzuy@gmail.com</a> · 
+  <a href="https://nguyenzuy.site/">nguyenzuy.site</a>
+</p>
