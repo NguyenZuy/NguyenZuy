@@ -1,4 +1,4 @@
-<h1 align="center">Nguyen Zuy</h1>
+<h1 align="center">Duy Nguyen</h1>
 
 <p align="center">
   <b>Fullstack Unity Developer</b> · Client + Backend · Product-driven
@@ -68,3 +68,4 @@ Posts and Telecommunications Institute of Technology (PTIT) · Graduated Nov 202
   <a href="mailto:contact.nguyenzuy@gmail.com">contact.nguyenzuy@gmail.com</a> · 
   <a href="https://nguyenzuy.site/">nguyenzuy.site</a>
 </p>
+
