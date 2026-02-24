@@ -48,31 +48,23 @@ Fullstack Unity Developer with 3 years of experience building both game client a
   <summary><b>Game Development</b></summary>
   <br>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=unity,cs,visualstudio,dotnet" />
+    <img src="https://skillicons.dev/icons?i=unity,cs,dotnet" />
   </p>
 </details>
 
 <details open>
-  <summary><b>Languages & Frameworks</b></summary>
+  <summary><b>Backend & Database</b></summary>
   <br>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=cs,java,js" />
+    <img src="https://skillicons.dev/icons?i=mongodb,firebase,docker" />
   </p>
 </details>
 
 <details open>
-  <summary><b>Databases & DevOps</b></summary>
+  <summary><b>Tools</b></summary>
   <br>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres,docker" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>Tools & Platforms</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
   </p>
 </details>
 
@@ -84,3 +76,4 @@ Fullstack Unity Developer with 3 years of experience building both game client a
   <b>LinkedIn:</b> <a href="https://linkedin.com/in/nguyen-zuy">linkedin.com/in/nguyen-zuy</a><br>
   <b>Portfolio:</b> <a href="https://nguyenzuy.site/">nguyenzuy.site</a>
 </p>
+
