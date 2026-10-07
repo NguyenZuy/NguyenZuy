@@ -1,71 +1,40 @@
-<h1 align="center">Duy Nguyen</h1>
+<h1 align="center">Jay Nguyen</h1>
 
 <p align="center">
-  <b>Fullstack Unity Developer</b> · Client + Backend · Product-driven
+  <b>Gameplay Programmer</b> · Unity · Godot · C#
 </p>
 
 <p align="center">
-  <a href="mailto:contact.nguyenzuy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="https://www.zuyzuygames.com/">
+    <img src="https://img.shields.io/badge/Website-zuyzuygames.com-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
+  <a href="mailto:nguyenduygamedev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nguyenduygamedev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://linkedin.com/in/nguyen-zuy">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://nguyenzuy.site/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white">
+  <a href="https://wa.me/84356756964">
+    <img src="https://img.shields.io/badge/WhatsApp%2FTelegram-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </p>
 
 ---
 
 <p align="center">
-I am a Fullstack Unity Developer with 3 years of experience. I build both the game client and the backend server — from gameplay and UI in Unity to REST APIs and real-time networking.
-<br><br>
-I use AI tools as a core part of how I work. I focus on what users actually need, cut what does not matter, and ship things that make a real difference.
-<br><br>
-Currently open to remote opportunities.
+  Unity/C# gameplay programmer shipping games across Mobile, PC, and Web.
+  <br>
+  Open to <b>Remote · Onsite · Relocation</b> (Ho Chi Minh City, GMT+7).
 </p>
 
----
-
-<h3 align="center">Experience</h3>
-
-<div align="center">
-
-| Role | Company | Period |
-|---|---|---|
-| Fullstack Unity Developer | Smulie | Aug 2025 – Present |
-| Fullstack Unity Developer | QTS Australia | Jun 2023 – Aug 2025 |
-
-</div>
-
----
-
-<h3 align="center">Education</h3>
-
 <p align="center">
-Bachelor of Technology — Information Technology<br>
-Posts and Telecommunications Institute of Technology (PTIT) · Graduated Nov 2024
-</p>
-
----
-
-<h3 align="center">Tech Stack</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,dotnet" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,docker" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  🕹️ <b>All games, gameplay videos & case studies:</b>
+  <br>
+  👉 <a href="https://www.zuyzuygames.com/"><b>zuyzuygames.com</b></a>
 </p>
 
 ---
 
 <p align="center">
-  <a href="mailto:contact.nguyenzuy@gmail.com">contact.nguyenzuy@gmail.com</a> · 
-  <a href="https://nguyenzuy.site/">nguyenzuy.site</a>
+  <img src="https://skillicons.dev/icons?i=unity,cs,godot,dotnet,firebase,git,github" />
 </p>
-
